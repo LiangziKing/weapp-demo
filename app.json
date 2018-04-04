@@ -1,11 +1,13 @@
 {
-  "pages":[
-    "pages/logs/logs"
+  "pages": [
+    "pages/logs/logs",
+    "pages/board/board",
+    "pages/search/search"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "这是导航标题",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   }
 }
