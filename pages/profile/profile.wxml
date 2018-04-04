@@ -1,0 +1,4 @@
+<!--pages/profile/profile.wxml-->
+<view>
+	<text>关于页面</text>
+</view>
