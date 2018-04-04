@@ -1,10 +1,10 @@
 {
   "pages": [
+    "pages/list/list",
     "pages/board/board",
     "pages/search/search",
     "pages/profile/profile",
     "pages/logs/logs",
-    "pages/list/list",
     "pages/item/item"
   ],
   "window": {
