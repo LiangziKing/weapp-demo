@@ -1,2 +1,4 @@
 <!--pages/board/board.wxml-->
-<text>pages/board/board.wxml</text>
+<view>
+	<text>榜单页面</text>
+</view>

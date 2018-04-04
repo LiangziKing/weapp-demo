@@ -1,2 +1,4 @@
 <!--pages/search/search.wxml-->
-<text>pages/search/search.wxml</text>
+<view>
+	<text>搜索页面</text>
+</view>
