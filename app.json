@@ -1,8 +1,8 @@
-﻿{
+{
   "pages": [
-    "pages/logs/logs",
     "pages/board/board",
-    "pages/search/search"
+    "pages/search/search",
+    "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -11,14 +11,18 @@
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
+    "color": "#c0c0c0",
+    "selectedColor": "#fff",
+    "borderStyle": "black",
+    "backgroundColor": "#35495e",
     "list": [
       {
         "text": "榜单",
-        "pagePath": "page/board/board"
+        "pagePath": "pages/board/board"
       },
       {
         "text": "搜索",
-        "pagePath": "page/search/search"
+        "pagePath": "pages/search/search"
       }
     ]
   }
