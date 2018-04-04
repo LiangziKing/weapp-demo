@@ -1,4 +1,4 @@
-# wxapp-demo level-02
+# wxapp-demo level-03
 
 ## 案例结构
 
